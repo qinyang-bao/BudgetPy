@@ -1,0 +1,5 @@
+et-xmlfile==1.0.1
+jdcal==1.4.1
+openpyxl==2.6.3
+Pillow==6.1.0
+python-dotenv==0.10.3
