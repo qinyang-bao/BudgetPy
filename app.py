@@ -341,7 +341,7 @@ class App(object):
     @staticmethod
     def _convert_amount(amount):
         try:
-            return int(amount)
+            return float(amount)
         except ValueError:
             raise ValueError("{} is not a valid number".format(amount))
 
